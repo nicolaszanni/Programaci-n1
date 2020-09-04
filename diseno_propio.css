@@ -1,0 +1,74 @@
+body{
+    background: linear-gradient(to bottom right, rgb(0, 1, 2), rgb(49, 53, 53));
+    
+}
+
+#body2{
+    background: rgb(0, 1, 2)
+}
+.color-rectangulo{  
+    background-color: #B60B0B;
+}
+.color-navbar-inicial{
+    background-color: #443f3f;
+}
+.letra-rectangulo{
+    color: rgb(0,0,0);
+    font-style: normal;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif; 
+    
+}
+
+h1{
+    font-weight: bolder;
+}
+p{
+    font-weight: normal;
+    font-style: oblique;
+}
+
+.tamano_letra{
+    font-size: 2em;
+}
+.curvatura{
+    border-radius: 1rem;
+}
+.curvatura2{
+    border-radius: 0.5rem;
+}
+
+.contenedor_de_imagen{
+    text-align: center;
+}
+
+.tamano_imagen{
+    border-radius: 10px;
+    width: 40vw;
+    height: 40vw;
+    
+}
+
+.zoom {
+    padding: 0px;
+    transition: transform .2s;
+    width: 0px;
+    margin: 0 ;
+  }
+  
+  .zoom:hover {
+    transform: scale(1.05); 
+  }
+
+.tamano{
+    width: 35vw;
+    height: 30vw;
+}
+.tamano-dark{
+    width: 40vw;
+    height: 50vw;
+}
+
+.alineado{
+    text-align: center;
+}
